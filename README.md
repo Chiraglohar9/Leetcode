@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Chiraglohar9/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
