@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chiraglohar9/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -35,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Chiraglohar9/Leetcode/tree/master/0009-palindrome-number) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Chiraglohar9/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
